@@ -85,6 +85,7 @@
 			<input type="text" placeholder="Name"/>
 			<input type="text" placeholder="Email"/>
 			<input type="text" placeholder="Phone"/>
+			<textarea placeholder="message"></textarea>
 			<input type="submit" class="btn" value="Submit" />
 			<p>For additional information or to learn about investment or international distributor opportunities, call Marin Lebouitz at (813) 731- 0534.</p>
 		</form>

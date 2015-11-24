@@ -290,7 +290,7 @@ section {
 		input {
 			-webkit-appearance: none;
 		}
-		input:not([type="submit"]) {
+		input:not([type="submit"]), textarea {
 			font-size: trem(16px);
 			display: block;
 			width: 100%;
@@ -299,6 +299,9 @@ section {
 			border-radius: .9rem;
 			margin-bottom: trem(12px);
 			padding: .4em 1em;
+		}
+		textarea {
+			height: 6em;
 		}
 	}
 	p {
